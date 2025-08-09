@@ -34,6 +34,17 @@ This project analyzes the Boston Housing dataset to uncover key factors that inf
 **1. Correlation Heatmap — Visual overview of feature correlations**
 ![Dashboard Pie](https://github.com/Rpfitrah/Boston-Housing-Dataset/blob/main/Image/Correlation%20Heatmap.png)
 
+**2. RM vs MEDV — Scatter plot showing positive trend between room count and price**
+![Dashboard Pie](https://github.com/Rpfitrah/Boston-Housing-Dataset/blob/main/Image/RM%20vs%20MEDV.png)
+
+**3. LSTAT vs MEDV — Negative trend between lower status population and price**
+![Dashboard Pie](https://github.com/Rpfitrah/Boston-Housing-Dataset/blob/main/Image/LSTAT%20vs%20MEDV.png)
+
+**4. MEDV Distribution — Histogram showing skewed distribution of housing prices**
+![Dashboard Pie](https://github.com/Rpfitrah/Boston-Housing-Dataset/blob/main/Image/MEDV%20Distribution.png)
+
+
+
 ---
 
 ## 💡 Business Insight
